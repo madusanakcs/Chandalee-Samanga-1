@@ -21,7 +21,7 @@ const About = () => {
 
             {/* Updated description to match the Data Analyst summary from the CV */}
 <p className="about__description">
-  Detail-oriented <strong>Data Analyst</strong> with a strong academic foundation in <strong>math, statistics, and informatics</strong>. 
+  Detail Oriented <strong>Data Analyst</strong> with a strong academic foundation in <strong>math, statistics, and informatics</strong>. 
   I am skilled in data cleaning, visualization, and deriving actionable insights using <strong>Python (Pandas, NumPy, Matplotlib, Seaborn)</strong> to support data-driven decisions. Passionate about transforming complex data into clear, impactful solutions for organizational success.
 </p>
 
